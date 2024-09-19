@@ -1,7 +1,0 @@
-general:
-  productiveBranch: 'main'
-  script: 'main.py'
-steps:
-  executeScripts:
-    installCommand: 'pip install -r requirements.txt'
-    runCommand: 'python3 main.py'
